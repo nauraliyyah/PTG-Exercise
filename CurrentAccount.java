@@ -1,4 +1,5 @@
 public class CurrentAccount extends Account {
+    // Attributes
     private double overdraftLimit;
     private boolean overdraftEnabled;
     private double monthlyFee;

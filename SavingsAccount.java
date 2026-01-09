@@ -1,4 +1,5 @@
 public class SavingsAccount extends Account {
+    // Attributes
     private double interestRate;
     private double minimumBalance;
     private boolean active;

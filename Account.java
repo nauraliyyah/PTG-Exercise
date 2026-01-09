@@ -1,5 +1,6 @@
 // Base class: Account
 public class Account {
+    // Attributes
     private final String accountNumber;
     private String name;
     private double balance;
