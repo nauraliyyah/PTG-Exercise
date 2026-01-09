@@ -1,5 +1,10 @@
 # PTG Exercise
 
+Class: WIX1002 Fundamentals Of Programming
+Occurrence: 15
+Name: Arif Naura Aliyyah
+Matrics Number: 24204574
+
 Java program demonstrating the implementation of:
 - Account
 - SavingsAccount
